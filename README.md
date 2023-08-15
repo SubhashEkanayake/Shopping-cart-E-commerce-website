@@ -3,7 +3,7 @@
 <h4>Link:</h4>
 https://subhashekanayake.github.io/Shopping-cart-E-commerce-website/
 <br><br>
-Features
+<h4>Features</h4> <br>
 Search Bar: Narrow down the product list. Also works with filters.
 Item Filters: Sort the list by Price, Stars, Category, Brand.
 Product List: Contains every item retrieved from the API.
