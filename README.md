@@ -2,6 +2,7 @@
 
 Link:
 https://subhashekanayake.github.io/Shopping-cart-E-commerce-website/
+<br>
 Features
 Search Bar: Narrow down the product list. Also works with filters.
 Item Filters: Sort the list by Price, Stars, Category, Brand.
