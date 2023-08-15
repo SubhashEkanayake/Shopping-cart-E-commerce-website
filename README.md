@@ -3,7 +3,7 @@
 <h4>Link:</h4>
 https://subhashekanayake.github.io/Shopping-cart-E-commerce-website/
 <br><br>
-<h4>Features</h4> <br>
+<h4>Features:</h4>
 <ol>
   <li>Search Bar: Narrow down the product list. Also works with filters.</li>
   <li>Responsive Design.</li>
